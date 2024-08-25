@@ -9,8 +9,7 @@
 - [Business Recommendations](#business-recommendations)  
 &ensp;
   
-
-![PP6 Sales Dashboard](https://github.com/user-attachments/assets/3c8a128d-e28a-4aea-89e5-fb0d53695470)
+![PP6 Sales Dashboard](https://github.com/user-attachments/assets/dfff2a9d-b68d-4d86-aaa4-142395665652)
 
 [Check the dashboard on Excel](https://1drv.ms/x/s!AlsM-EXqeknPcKbY6p5QWu2WrnA?e=howmdB&nav=MTVfe0ZFQzMzMDNBLUU2MUEtNDFGMy1CMjFFLUNCQjAwQUI2QUNFMn0)
 
